@@ -1,3 +1,7 @@
+'''
+Feel free to extend this program and make it more complex by adding more
+functionality.
+'''
 import datetime
 import pyttsx3
 import speech_recognition as sr
